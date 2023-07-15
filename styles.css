@@ -1,0 +1,33 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 150px;
+}
+
+h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#contador {
+    font-size: 48px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+#botao, #zerarBotao {
+    background-color: #e50914;
+    color: #fff;
+    font-size: 24px;
+    padding: 10px 20px;
+    display:block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
